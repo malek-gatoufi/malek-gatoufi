@@ -18,7 +18,7 @@
   - 📰 Blog → [malek-gatoufi.fr/blog](https://malek-gatoufi.fr/blog)  
   - 🎓 E-Learning → [malek-gatoufi.fr/e-learning](https://malek-gatoufi.fr/e-learning)  
 - 💬 Ask me about **NestJS, Python, TypeScript, and C++**  
-- 📫 Reach me: **malek@malek-gatoufi.fr**  
+- 📫 Reach me: **contact@malek-gatoufi.fr**  
 - ⚡ Fun fact: *I code as fast as I eat pizza 🍕*
 
 ---

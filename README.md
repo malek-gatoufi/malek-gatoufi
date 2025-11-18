@@ -26,10 +26,10 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/malek-gatoufi" target="_blank">
+  <a href="https://www.linkedin.com/in/malek-gatoufi/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:malek@malek-gatoufi.fr">
+  <a href="mailto:contact@malek-gatoufi.fr">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
   </a>
   <a href="https://malek-gatoufi.fr" target="_blank">
